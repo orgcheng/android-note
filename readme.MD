@@ -1,14 +1,38 @@
-###在Win7下，安装了JDK和Git，想要通过Git Bash来clone GitHub上面创建的工程，需要配置SSH
-0.Checked for existing SSH keys
-https://help.github.com/articles/checking-for-existing-ssh-keys/
+###Which remote URL should I user?
+There are several ways to clone repositories available on GitHub.
+1. Cloning with HTTPS URLs(recommended)
+ 需要提供用户名和密码
+ 可以通过credential helper来保存GitHub的用户名和密码
 
-1. Generating an SSH key
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+2. Cloning with SSH URLs
+ 需要提供SSH key passphrase
+ 
+link:https://help.github.com/articles/which-remote-url-should-i-use/
 
-2. Adding a new SSH key to your GitHub account
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
-3. Testing your SSH connection
-https://help.github.com/articles/testing-your-ssh-connection/
+ ###Generating an SSH key
+1. Checked for existing SSH keys
+2. Generating an SSH key
+3. Adding a new SSH key to your GitHub account
+4. Testing your SSH connection
 
-在Mac和Linux上，操作是类似的，步骤0和3是可选的，如果存在SSH key，1也是不需要的
+link:https://help.github.com/categories/ssh/
+
+
+###Caching your GitHub password in Git
+$git config --global credential.helper cache
+
+To change the default password cache timeout, enter the following:
+$git config --global credential.helper 'cache --timeout=3600'
+# Set the cache to timeout after 1 hour (setting is in seconds)
+
+https://help.github.com/articles/caching-your-github-password-in-git/#platform-linux
+
+
+###使用的命令
+git remote -v
+git remote set-url git@github.com:orgcheng/android-note.git
+
+Further Rreading: 
+Working with Remotes
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
