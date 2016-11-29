@@ -80,3 +80,14 @@ AAPT是Android Asset Packagint Tool
 ### Lint
 在Android Studio的终端,输入`./gradlew lint`,会在每个Module的`/build/outputs/`下生成检测报告
 
+#### ADB
+**Android 4.3引入的wm工具**
+- 获取Android设备屏幕分辨率： `adb shell wm size`
+- 获取android设备屏幕密度： `adb shell wm density`
+
+这两个功能是由代码提供的,类似`aapt`,可以修改相应代码来实现一些功能
+[参考链接](http://www.cnblogs.com/fanfeng/p/3263853.html)
+
+**获取手机型号和设备信息**
+`adb shell`
+`cat /system/build.prop | grep "product" #获取设备信息,如device=GIONEE_SWG1613`
