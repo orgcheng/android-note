@@ -11,7 +11,7 @@ Usage: logcat [options] [filterspecs]
 options include:
   -s              Set default filter to silent. Like specifying filterspec '*:S'
 
-filterspecs are a series of 
+filterspecs are a series of
   <tag>[:priority]
 
 where <tag> is a log component tag (or * for all) and priority is:
@@ -34,7 +34,7 @@ where <tag> is a log component tag (or * for all) and priority is:
 
 ## 屏幕录像和截屏(适用于api 19以上)
 - 截屏
-`adb shell screenrecord -p sdcard/demo.png`
+`adb shell screencap -p sdcard/demo.png`
 
 - 录像
 `adb shell`
