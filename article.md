@@ -10,3 +10,5 @@
 介绍CardView的属性使用
 
 [Android 判断应用前后台运行状态并获取当前 Activity 实例](http://yifeng.studio/2016/11/02/android-app-running-status/)
+
+[Android开发者必知的开发资源](http://mobile.51cto.com/abased-403789.htm)
