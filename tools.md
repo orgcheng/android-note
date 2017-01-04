@@ -77,10 +77,10 @@ AAPT是Android Asset Packagint Tool
 
 另外`aapt`源代码位于`/frameworks/base/tools/aapt/`目录下面,可以修改源码来实现某些功能----公司内部提供的获取所有应用的权限列表apk, 保存到`sdcard`上的xls文件中,该功能是否可以修改这个工具来实现?
 
-### Lint
+## Lint
 在Android Studio的终端,输入`./gradlew lint`,会在每个Module的`/build/outputs/`下生成检测报告
 
-#### ADB
+## ADB
 **Android 4.3引入的wm工具**
 - 获取Android设备屏幕分辨率： `adb shell wm size`
 - 获取android设备屏幕密度： `adb shell wm density`
