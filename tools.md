@@ -75,6 +75,8 @@ AAPT是Android Asset Packagint Tool
 **截屏**
 
 	adb shell screencap -p sdcard/demo.png
+    # 一行命令搞定
+    adb shell screencap -p | sed "s/\r$//" > sc.png 
 
 **录像**
 

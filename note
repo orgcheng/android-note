@@ -1,0 +1,9 @@
+抽象父类的注意事项：子类要在构造方法中传递额外参数的问题
+public abstract class AbstractCardManager implements {
+    public AbstractCardManager(Context context, Context launcherContext) {
+        initInterface(context, launcherContext);
+        initManager(context, launcherContext);
+    }
+}
+
+
