@@ -1,0 +1,442 @@
+From: <Saved by Blink>
+Subject: Android??????
+Date: Thu, 11 Apr 2018 02:43:56 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--3D4uC8bKNKlPaENXnOTd4B57t98SYTzrUYvc98wrif----"
+
+------MultipartBoundary--3D4uC8bKNKlPaENXnOTd4B57t98SYTzrUYvc98wrif----
+Content-Type: text/html
+Content-ID: <frame-67-66cef032-194d-4fa5-860a-cecd3c29be2b@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Administrator/AppData/Local/Temp/MarkdownPadPreview.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+<title>Android=E8=BF=9B=E7=A8=8B=E4=BF=9D=E6=B4=BB=E5=AE=9E=E8=B7=B5</title=
+>
+
+<style type=3D"text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, b=
+lockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, i=
+mg, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i=
+, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, cap=
+tion, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, emb=
+ed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, se=
+ction, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 c=
+ode, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:f=
+irst-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:f=
+irst-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child,=20
+ol li > :first-child,=20
+ul li ul:first-of-type,=20
+ol li ol:first-of-type,=20
+ul li ol:first-of-type,=20
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D*/
+
+img {
+  max-width: 100%
+}
+</style>
+<base href=3D"file:///D:/Android/%E6%96%87%E7%AB%A0/">
+</head>
+<body>
+<h3>=E4=B8=80=E3=80=81</h3>
+<p><strong>=E5=BE=AE=E4=BF=A1=E5=85=AC=E4=BC=97=E5=8F=B7=E4=B8=8A=E6=8E=A8=
+=E9=80=81=E7=9A=84=E6=96=87=E5=AD=97=EF=BC=8C=E5=9C=B0=E5=9D=80=EF=BC=9A<a =
+href=3D"http://mp.weixin.qq.com/s?__biz=3DMzAxMTI4MTkwNQ=3D=3D&amp;mid=3D26=
+50825271&amp;idx=3D1&amp;sn=3D2f71bc9a6a5f3b638cb561c777b713b3&amp;chksm=3D=
+80b7b6a9b7c03fbfc0b72341f1b0dd4e014acddbd49152914a5360a6f72cd7c8803e50021d6=
+8&amp;mpshare=3D1&amp;scene=3D1&amp;srcid=3D0411A5RImGxPRihq4M17V5pw#rd">An=
+droid=E8=BF=9B=E7=A8=8B=E4=BF=9D=E6=B4=BB=E5=AE=9E=E8=B7=B5</a></strong></p=
+>
+<p>=E6=96=87=E7=AB=A0=E4=B8=AD=E6=8F=90=E5=88=B0=E8=BF=9B=E7=A8=8B=E4=BC=98=
+=E5=85=88=E7=BA=A7=EF=BC=8C=E6=9C=89=E4=B8=AA=E5=AF=B9=E5=BA=94=E6=95=B0=E5=
+=80=BC=E5=92=8C=E8=BF=9B=E7=A8=8B=E4=BC=98=E5=85=88=E7=BA=A7=E5=85=B3=E8=81=
+=94=EF=BC=8C=E7=A7=B0=E4=BD=9Coom_adj=EF=BC=8C=E8=BF=9B=E7=A8=8B=E4=BC=98=
+=E5=85=88=E7=BA=A7=E8=B6=8A=E9=AB=98=E6=95=B0=E5=80=BC=E8=B6=8A=E4=BD=8E=E3=
+=80=82</p>
+<p>=E8=87=B3=E4=BA=8E=E6=80=8E=E4=B9=88=E6=9F=A5=E7=9C=8B=E8=AF=A5=E6=95=B0=
+=E5=80=BC=EF=BC=8C=E6=96=87=E5=AD=97=E4=B8=AD=E7=BB=99=E5=87=BA=E4=BA=86=E4=
+=B8=80=E7=A7=8D=E6=96=B9=E5=BC=8F=EF=BC=9A=E5=85=88=E6=89=BE=E5=88=B0=E8=BF=
+=9B=E7=A8=8B=E7=9A=84pid,=E7=84=B6=E5=90=8E=E5=9C=A8proc/pid/oom_adj=E6=96=
+=87=E4=BB=B6=E4=B8=AD=E6=9F=A5=E7=9C=8B=E5=85=B7=E4=BD=93=E7=9A=84=E5=80=BC=
+=E3=80=82</p>
+<blockquote>
+<p>=E6=9F=A5=E7=9C=8B28321=E8=BF=9B=E7=A8=8Boom_adj=E7=9A=84=E5=80=BC</p>
+<p>adb shell</p>
+<p>cat proc/28321/oom_adj</p>
+</blockquote>
+<p><br></p>
+<h3>=E4=BA=8C=E3=80=81</h3>
+<p>=E5=9C=A8=E5=AD=A6=E4=B9=A0<code>adb shell dumpsys meminfo</code>=E5=91=
+=BD=E4=BB=A4=E6=97=B6,=E7=9C=8B=E5=88=B0=E8=BF=87oom adj</p>
+<pre><code>//  =E6=9F=A5=E7=9C=8B=E5=B8=AE=E5=8A=A9=E6=96=87=E6=A1=A3
+#adb shell dumpsys meminfo -h
+
+meminfo dump options: [-a] [-d] [-c] [-s] [--oom] [process]
+  -a: include all available information for each process.
+  -d: include dalvik details.
+  -c: dump in a compact machine-parseable representation.
+  -s: dump only summary of application memory usage.
+  -S: dump also SwapPss.
+  --oom: only show processes organized by oom adj.
+  --local: only collect details locally, don't call process.
+  --package: interpret process arg as package, dumping all
+             processes that have loaded that package.
+  --checkin: dump data for a checkin
+If [process] is specified it can be the name or=20
+pid of a specific process to dump.
+</code></pre>
+
+<p>=E6=9C=80=E5=90=8E=E9=80=9A=E8=BF=87<code>adb shell dumpsys meminfo --oo=
+m [process]</code>=E5=91=BD=E4=BB=A4=E5=B0=B1=E5=8F=AF=E4=BB=A5=E6=9F=A5=E7=
+=9C=8B=E6=8C=87=E5=AE=9A=E8=BF=9B=E7=A8=8B=E7=9A=84=E4=BC=98=E5=85=88=E7=BA=
+=A7=EF=BC=8C=E6=98=BE=E7=A4=BA=E7=9A=84=E6=98=AF=E4=BC=98=E5=85=88=E7=BA=A7=
+=E7=B1=BB=E5=9E=8B=EF=BC=8C=E8=80=8C=E4=B8=8D=E6=98=AF=E5=85=B7=E4=BD=93=E6=
+=95=B0=E5=80=BC: </p>
+<blockquote>
+<p>Native &gt; System &gt; Persistent &gt; Foreground &gt; Visible &gt; Per=
+ceptible &gt; Backup &gt; A Services &gt; B Services &gt; Cached</p>
+<p>=E5=85=B6=E4=B8=ADB Services=E8=A1=A8=E7=A4=BA=E8=BF=9B=E7=A8=8B=E6=AF=
+=94=E8=BE=83=E8=80=81=E3=80=81=E4=BD=BF=E7=94=A8=E5=8F=AF=E8=83=BD=E6=80=A7=
+=E8=BE=83=E5=B0=8F</p>
+</blockquote>
+<p><br></p>
+<h3>=E4=B8=89=E3=80=81</h3>
+<p><strong>=E5=B8=B8=E7=94=A8=E5=86=85=E5=AD=98=E7=B1=BB=E5=9E=8B</strong><=
+/p>
+<ul>
+<li>VSS - Virtual Set Size =E8=99=9A=E6=8B=9F=E8=80=97=E7=94=A8=E5=86=85=E5=
+=AD=98 =EF=BC=88=E5=8C=85=E5=90=AB=E5=85=B1=E4=BA=AB=E5=BA=93=E5=8D=A0=E7=
+=94=A8=E7=9A=84=E5=86=85=E5=AD=98=EF=BC=89</li>
+<li>RSS - Resident Set Size =E5=AE=9E=E9=99=85=E4=BD=BF=E7=94=A8=E7=9A=84=
+=E7=89=A9=E7=90=86=E5=86=85=E5=AD=98 =EF=BC=88=E5=8C=85=E5=90=AB=E5=85=B1=
+=E4=BA=AB=E5=BA=93=E5=8D=A0=E7=94=A8=E7=9A=84=E5=86=85=E5=AD=98=EF=BC=89</l=
+i>
+<li>PSS - Proportional Set Size  =E5=AE=9E=E9=99=85=E4=BD=BF=E7=94=A8=E7=9A=
+=84=E7=89=A9=E7=90=86=E5=86=85=E5=AD=98=EF=BC=88=E5=8C=85=E5=90=AB=E6=AF=94=
+=E4=BE=8B=E5=88=86=E9=85=8D=E5=85=B1=E4=BA=AB=E5=BA=93=E5=8D=A0=E7=94=A8=E7=
+=9A=84=E5=86=85=E5=AD=98=EF=BC=89</li>
+<li>USS - Unique Set Size =E8=BF=9B=E7=A8=8B=E7=8B=AC=E8=87=AA=E5=8D=A0=E7=
+=94=A8=E7=9A=84=E7=89=A9=E7=90=86=E5=86=85=E5=AD=98=EF=BC=88=E4=B8=8D=E5=8C=
+=85=E5=90=AB=E5=85=B1=E4=BA=AB=E5=BA=93=E5=8D=A0=E7=94=A8=E7=9A=84=E5=86=85=
+=E5=AD=98=EF=BC=89
+=E4=B8=80=E8=88=AC=E6=9D=A5=E8=AF=B4=E5=86=85=E5=AD=98=E5=8D=A0=E7=94=A8=E5=
+=A4=A7=E5=B0=8F=E8=A7=84=E5=BE=8B=E5=A6=82=E4=B8=8B=EF=BC=9AVSS &gt;=3D RSS=
+ &gt;=3D PSS &gt;=3D USS</li>
+</ul>
+
+
+
+<!-- This document was created with MarkdownPad, the Markdown editor for Wi=
+ndows (http://markdownpad.com) -->
+</body></html>
+------MultipartBoundary--3D4uC8bKNKlPaENXnOTd4B57t98SYTzrUYvc98wrif------
