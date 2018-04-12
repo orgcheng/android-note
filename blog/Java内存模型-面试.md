@@ -60,6 +60,26 @@ Java中的堆是用来存储对象本身的以及数组（当然，数组引用�
 <br/>
 ### 四、Runtime Data Area（运行时数据区） 的内存回收机制 ###
 
+Android系统针对ART虚拟机的堆，采用Generation Heap Memory模型来管理。
+
+- Youngth Generation： GC频率比较高，而且也分为几个小区-Eden/S0/S1; GC算法采用copy算法
+
+- Old Generation : GC频率比较低， GC算法采用标记算法
+
+- Persistent： GC频率最低 
+
+
+
 
 <br/>
 ### 五、优化内存的意义 ###
+
+- 减少GC时导致的卡顿
+
+- 减少内存碎片
+
+- 避免OOM
+
+OOM的引起，主要是因为内存泄漏和内存碎片。
+
+**通过DDMS查看heap信息时，下面的列表有个free行，该行数值越大，表示内存碎片越多** 
