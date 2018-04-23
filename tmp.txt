@@ -1,0 +1,6 @@
+《你知道android的MessageQueue.IdleHandler吗？》
+https://mp.weixin.qq.com/s/KpeBqIEYeOzt_frANoGuSg
+
+
+通过View.post()获取View的宽高引发的两个问题：1post的Runnable何时被执行，2为何View需要layout两次；以及发现Android的一个小bug
+https://blog.csdn.net/scnuxisan225/article/details/49815269
